@@ -1,4 +1,4 @@
-# HTML Practice Repository 🌐
+# HTML Practice Repository 
 
 This repository contains my HTML practice files created while learning and improving my frontend development fundamentals.
 
